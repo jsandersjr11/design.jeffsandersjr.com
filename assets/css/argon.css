@@ -3302,15 +3302,15 @@ fieldset:disabled a.btn
 .btn-default
 {
     color: #fff;
-    border-color: #172b4d;
-    background-color: #172b4d;
+    border-color: #283593;
+    background-color: #283593;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
 }
 .btn-default:hover
 {
     color: #fff;
-    border-color: #172b4d;
-    background-color: #172b4d;
+    border-color: #3949AB;
+    background-color: ##3949AB;
 }
 .btn-default:focus,
 .btn-default.focus
@@ -3321,8 +3321,8 @@ fieldset:disabled a.btn
 .btn-default:disabled
 {
     color: #fff;
-    border-color: #172b4d;
-    background-color: #172b4d;
+    border-color: #1A237E;
+    background-color: #1A237E;
 }
 .btn-default:not(:disabled):not(.disabled):active,
 .btn-default:not(:disabled):not(.disabled).active,
@@ -3330,7 +3330,7 @@ fieldset:disabled a.btn
 {
     color: #fff;
     border-color: #172b4d;
-    background-color: #0b1526;
+    background-color: #1A237E;
 }
 .btn-default:not(:disabled):not(.disabled):active:focus,
 .btn-default:not(:disabled):not(.disabled).active:focus,
@@ -3773,16 +3773,16 @@ fieldset:disabled a.btn
 
 .btn-outline-default
 {
-    color: #172b4d;
-    border-color: #172b4d;
+    color: #283593;
+    border-color: #283593;
     background-color: transparent;
     background-image: none;
 }
 .btn-outline-default:hover
 {
     color: #fff;
-    border-color: #172b4d;
-    background-color: #172b4d;
+    border-color: #3949AB;
+    background-color: #3949AB;
 }
 .btn-outline-default:focus,
 .btn-outline-default.focus
@@ -3800,8 +3800,8 @@ fieldset:disabled a.btn
 .show > .btn-outline-default.dropdown-toggle
 {
     color: #fff;
-    border-color: #172b4d;
-    background-color: #172b4d;
+    border-color: #1A237E;
+    background-color: #1A237E;
 }
 .btn-outline-default:not(:disabled):not(.disabled):active:focus,
 .btn-outline-default:not(:disabled):not(.disabled).active:focus,
@@ -12997,7 +12997,7 @@ button.bg-lighter:focus
 
 .bg-gradient-primary
 {
-    background: linear-gradient(87deg, #283593 0, #825ee4 100%) !important;
+    background: linear-gradient(87deg, #1A237E 0, #5C6BC0 100%) !important;
 }
 
 .bg-gradient-secondary
@@ -13057,7 +13057,7 @@ button.bg-lighter:focus
 
 .bg-gradient-blue
 {
-    background: linear-gradient(87deg, #283593 0, #825ee4 100%) !important;
+    background: linear-gradient(87deg, #1A237E 0, #5C6BC0 100%) !important;
 }
 
 .bg-gradient-indigo
@@ -13197,7 +13197,7 @@ button.section-darker:focus
 
 .bg-gradient-primary
 {
-    background: linear-gradient(87deg, #283593 0, #825ee4 100%) !important;
+    background: linear-gradient(87deg, #1A237E 0, #5C6BC0 100%) !important;
 }
 
 .bg-gradient-secondary

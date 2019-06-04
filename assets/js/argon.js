@@ -164,8 +164,8 @@ $(document).ready(function() {
 
 function addMenuitem() {
   var $this = $('.navbar-nav li:first');
-  $this.children().attr('href', '../portfolio/').removeClass('active');
-  $this.children().children('span').text('Portfolio');
+  $this.children().attr('href', '#case-studies').removeClass('active');
+  $this.children().children('span').text('Case Studies');
 
   $('.navbar-brand').attr('href', '/portfolio/');
 
